@@ -1,4 +1,4 @@
-## Study project online store
+## Study project 'online store'
 
 GitHub pages: https://hobosapiens.github.io/shop/
 
@@ -7,7 +7,7 @@ About the implementation of the catalog of goods, filtering, calculating the amo
 Studied methods of working with data using the Ramda library, various operations with arrays, receiving and processing data from the API.
 <br />
 <br />
-### Учебный проект интернет-магазин
+### Учебный проект 'интернет-магазин'
 
 GitHub pages: https://hobosapiens.github.io/shop/
 
